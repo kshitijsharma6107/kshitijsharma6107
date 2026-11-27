@@ -147,13 +147,15 @@ Build. Learn. Debug. Repeat.
 
 ---
 
+
 ## `> ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijsharma6107&bg_color=0f172a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=14" width="100%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=kshitijsharma6107&theme=tokyo-night" width="100%" alt="Activity graph"/>
 
 </div>
+
 
 ---
 
