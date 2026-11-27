@@ -1,18 +1,28 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:7c3aed&text=KSHITIJ%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DSA%20in%20C%2B%2B%20%E2%80%A2%20B.Tech%20CSE&descSize=18&descAlignY=60&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" alt="header"/>
+
 <a href="https://github.com/kshitijsharma6107">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+DSA+in+C%2B%2B;Learning+AI+%2F+ML;Building+a+Docker+Docs+RAG+Assistant" alt="typing" />
 </a>
+
 <br/>
+
 <img src="./assets/room.svg" width="100%" alt="pixel room"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Commits-118-7c3aed?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pull%20Requests-2-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Best%20Streak-40%20days-16a34a?style=for-the-badge&logo=fireship&logoColor=white"/>
 <img src="https://img.shields.io/badge/Repositories-2-f59e0b?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
+
 ---
-`> ABOUT`
+
+## `> ABOUT`
+
 ```bash
 $ whoami
 kshitijsharma6107
@@ -21,9 +31,13 @@ $ cat about.txt
 C++ developer. Into DSA and AI/ML. Working on docker_documentation-assistant right now.
 B.Tech CSE student @ GZSCCET Bathinda (MRSPTU).
 ```
+
 > The monitor scrolls my latest commits; the shelf holds a book for each language I write.
+
 ---
-`> TERMINAL`
+
+## `> TERMINAL`
+
 ```bash
 $ git log --oneline
 docker_documen: Initial commit
@@ -33,8 +47,11 @@ LEETCODE_SOLLN: Add Medium C++ Solution
 LEETCODE_SOLLN: Add Medium C++ Solution
 LEETCODE_SOLLN: Add Medium C++ Solution
 ```
+
 ---
-`> PROJECTS`
+
+## `> PROJECTS`
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -57,50 +74,89 @@ LEETCODE_SOLLN: Add Medium C++ Solution
     </td>
   </tr>
 </table>
+
 ---
-`> FOCUS`
+
+## `> FOCUS`
+
 <div align="center">
+
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning%20%26%20Building-7c3aed?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG%20%26%20LLM%20Apps-Docker%20Docs%20Assistant-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </div>
+
 ---
-`> TECH STACK`
+
+## `> TECH STACK`
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,python,git,github,docker,vscode,linux&perline=7" alt="skills"/>
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
 </div>
+
 ---
-`> STATS`
+
+## `> STATS`
+
 <div align="center">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=kshitijsharma6107&show_icons=true&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&icon_color=f472b6&hide_border=false&border_radius=14" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsharma6107&layout=compact&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&border_radius=14" alt="languages"/>
+
 <br/>
+
 <img src="https://streak-stats.demolab.com/?user=kshitijsharma6107&theme=tokyonight&background=0f172a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&border=7c3aed&borderRadius=14" alt="streak"/>
+
 </div>
+
 ---
-`> ACTIVITY`
+
+## `> ACTIVITY`
+
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijsharma6107&bg_color=0f172a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=14" width="100%" alt="activity graph"/>
+
 </div>
+
 ---
-`> 3D CONTRIBUTIONS`
+
+## `> 3D CONTRIBUTIONS`
+
 <div align="center">
+
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
 <br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=kshitijsharma6107&theme=nord&no-frame=true&row=1&column=6" alt="trophies"/>
+
 </div>
+
 ---
-`> CONNECT`
+
+## `> CONNECT`
+
 <div align="center">
+
 <a href="https://github.com/kshitijsharma6107"><img src="https://img.shields.io/badge/GitHub-kshitijsharma6107-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/kshitijsh612007/"><img src="https://img.shields.io/badge/LeetCode-kshitijsh612007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:ks1422438@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=kshitijsharma6107&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="views"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7c3aed,50:1e3a8a,100:0f172a" width="100%" alt="footer"/>
+
 </div>
