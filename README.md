@@ -1,10 +1,9 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:7c3aed&text=KSHITIJ%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DSA%20in%20C%2B%2B%20%E2%80%A2%20B.Tech%20CSE&descSize=18&descAlignY=60&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" alt="header"/>
 
 <a href="https://github.com/kshitijsharma6107">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+DSA+in+C%2B%2B;Learning+AI+%2F+ML;Building+RAG+Applications" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+DSA+in+C%2B%2B;Learning+AI+%2F+ML;Building+RAG+Applications" alt="typing"/>
 </a>
 
 <br/>
@@ -61,42 +60,34 @@ Build. Learn. Debug. Repeat.
 
 ## `> PROJECTS`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-      <a href="https://github.com/kshitijsharma6107/LEETCODE_SOLLNS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=LEETCODE_SOLLNS&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&icon_color=f472b6&text_color=cbd5e1&border_radius=14" alt="LeetCode solutions"/>
-      </a>
+<a href="https://github.com/kshitijsharma6107/LEETCODE_SOLLNS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=LEETCODE_SOLLNS&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&icon_color=f472b6&text_color=cbd5e1&border_radius=14" width="48%" alt="LeetCode solutions"/>
+</a>
+<a href="https://github.com/kshitijsharma6107/docker_documentation-assistant-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=docker_documentation-assistant-&theme=tokyonight&bg_color=0f172a&border_color=1e3a8a&title_color=60a5fa&icon_color=38bdf8&text_color=cbd5e1&border_radius=14" width="48%" alt="Docker Documentation Assistant"/>
+</a>
 
-      **LeetCode Solutions**
+</div>
 
-      Collection of Data Structures and Algorithms problems solved using C++.
+### LeetCode Solutions
 
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Problem%20Solving-1e3a8a?style=flat-square"/>
+Collection of Data Structures and Algorithms problems solved using C++.
 
-    </td>
-    <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-1e3a8a?style=flat-square"/>
 
-      <a href="https://github.com/kshitijsharma6107/docker_documentation-assistant-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=docker_documentation-assistant-&theme=tokyonight&bg_color=0f172a&border_color=1e3a8a&title_color=60a5fa&icon_color=38bdf8&text_color=cbd5e1&border_radius=14" alt="Docker Documentation Assistant"/>
-      </a>
+### Docker Documentation Assistant
 
-      **Docker Documentation Assistant**
+A Retrieval-Augmented Generation (RAG) application that allows users to ask questions about Docker documentation and retrieve relevant information from documents.
 
-      A Retrieval-Augmented Generation (RAG) application that allows users to ask questions about Docker documentation and retrieve relevant information from documents.
-
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 ---
 
@@ -147,7 +138,6 @@ Build. Learn. Debug. Repeat.
 
 ---
 
-
 ## `> ACTIVITY`
 
 <div align="center">
@@ -156,10 +146,7 @@ Build. Learn. Debug. Repeat.
 
 </div>
 
-
 ---
-
-## `> 3D CONTRIBUTIONS`
 
 ## `> 3D CONTRIBUTIONS`
 
