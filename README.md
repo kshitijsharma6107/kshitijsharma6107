@@ -161,13 +161,11 @@ Build. Learn. Debug. Repeat.
 
 ## `> 3D CONTRIBUTIONS`
 
+## `> 3D CONTRIBUTIONS`
+
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kshitijsharma6107&theme=nord&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
