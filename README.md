@@ -1,16 +1,140 @@
-## Hi there 👋
+<!-- Put this file in a repo named exactly: kshitijsharma6107/kshitijsharma6107 -->
+<!-- ============ 3D HEADER ============ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:7c3aed&text=KSHITIJ%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20Developer%20%E2%80%A2%20Building%20with%20Python%20%E2%80%A2%20B.Tech%20CSE&descSize=18&descAlignY=60&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" alt="header"/>
+<a href="https://github.com/kshitijsharma6107">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+LeetCode+in+C%2B%2B;Building+a+Docker+Docs+RAG+Assistant;Always+committing%2C+always+learning" alt="typing" />
+</a>
+<br/>
+<img src="./assets/room.svg" width="100%" alt="pixel room"/>
+<br/>
+<img src="https://img.shields.io/badge/Commits-118-7c3aed?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pull%20Requests-2-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Best%20Streak-40%20days-16a34a?style=for-the-badge&logo=fireship&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-2-f59e0b?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+---
+`> ABOUT`
+```bash
+$ whoami
+kshitijsharma6107
 
+$ cat about.txt
+C++ developer. Working on docker_documentation-assistant right now.
+B.Tech CSE student @ GZSCCET Bathinda (MRSPTU).
+```
+> The monitor scrolls my latest commits; the shelf holds a book for each language I write.
+---
+`> TERMINAL`
+```bash
+$ git log --oneline
+docker_documen: Initial commit
+docker_documen: Add README for Docker Docs assistant
+docker_documen: Update Docker Documentation
+LEETCODE_SOLLN: Add Medium C++ Solution
+LEETCODE_SOLLN: Add Medium C++ Solution
+LEETCODE_SOLLN: Add Medium C++ Solution
+```
+---
+`> PROJECTS`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kshitijsharma6107/LEETCODE_SOLLNS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=LEETCODE_SOLLNS&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&icon_color=f472b6&text_color=cbd5e1&border_radius=14" alt="LEETCODE_SOLLNS"/>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kshitijsharma6107/docker_documentation-assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijsharma6107&repo=docker_documentation-assistant&theme=tokyonight&bg_color=0f172a&border_color=1e3a8a&title_color=60a5fa&icon_color=38bdf8&text_color=cbd5e1&border_radius=14" alt="docker_documentation-assistant"/>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+---
+`> TECH STACK`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,docker,vscode,linux&perline=7" alt="skills"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+</div>
+---
+`> STATS`
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kshitijsharma6107&show_icons=true&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&icon_color=f472b6&hide_border=false&border_radius=14" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsharma6107&layout=compact&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=a78bfa&border_radius=14" alt="languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=kshitijsharma6107&theme=tokyonight&background=0f172a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&border=7c3aed&borderRadius=14" alt="streak"/>
+</div>
+---
+`> ACTIVITY`
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijsharma6107&bg_color=0f172a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=14" width="100%" alt="activity graph"/>
+</div>
+---
+`> 3D CONTRIBUTIONS`
 <!--
-**kshitijsharma6107/kshitijsharma6107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  This image is generated by the GitHub Action in the setup notes below
+  (github-profile-3d-contrib). Until it runs once, the image will show broken.
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=kshitijsharma6107&theme=nord&no-frame=true&row=1&column=6" alt="trophies"/>
+</div>
+---
+`> CONNECT`
+<div align="center">
+<a href="https://github.com/kshitijsharma6107"><img src="https://img.shields.io/badge/GitHub-kshitijsharma6107-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=kshitijsharma6107&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7c3aed,50:1e3a8a,100:0f172a" width="100%" alt="footer"/>
+</div>
+<!--
+=========================== SETUP NOTES ===========================
+1. Create a PUBLIC repo named exactly: kshitijsharma6107
+   (same as your username) and add this file as README.md.
 
-Here are some ideas to get you started:
+2. For the 3D contribution graph, add this file:
+   .github/workflows/profile-3d.yml
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   name: GitHub-Profile-3D-Contrib
+   on:
+     schedule: [{ cron: "0 18 * * *" }]
+     workflow_dispatch:
+   permissions:
+     contents: write
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v4
+         - uses: yoshi389111/github-profile-3d-contrib@latest
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             USERNAME: ${{ github.repository_owner }}
+         - name: Commit & Push
+           run: |
+             git config user.name "github-actions"
+             git config user.email "actions@github.com"
+             git add -A .
+             git commit -m "update 3d contrib" || exit 0
+             git push
+
+   Then run it once from the Actions tab (Run workflow).
+
+3. Add assets/room.svg to the same repo (create the file via Add file > Create new file, name it assets/room.svg, paste the SVG code).
+
+4. Replace your-email@example.com and the LeetCode link with yours.
+==================================================================
