@@ -1,9 +1,9 @@
 <!-- Put this file in a repo named exactly: kshitijsharma6107/kshitijsharma6107 -->
 <!-- ============ 3D HEADER ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:7c3aed&text=KSHITIJ%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20Developer%20%E2%80%A2%20Building%20with%20Python%20%E2%80%A2%20B.Tech%20CSE&descSize=18&descAlignY=60&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:7c3aed&text=KSHITIJ%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DSA%20in%20C%2B%2B%20%E2%80%A2%20B.Tech%20CSE&descSize=18&descAlignY=60&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" alt="header"/>
 <a href="https://github.com/kshitijsharma6107">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+LeetCode+in+C%2B%2B;Building+a+Docker+Docs+RAG+Assistant;Always+committing%2C+always+learning" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=%24+git+log+--oneline;Solving+DSA+in+C%2B%2B;Learning+AI+%2F+ML;Building+a+Docker+Docs+RAG+Assistant" alt="typing" />
 </a>
 <br/>
 <img src="./assets/room.svg" width="100%" alt="pixel room"/>
@@ -20,7 +20,7 @@ $ whoami
 kshitijsharma6107
 
 $ cat about.txt
-C++ developer. Working on docker_documentation-assistant right now.
+C++ developer. Into DSA and AI/ML. Working on docker_documentation-assistant right now.
 B.Tech CSE student @ GZSCCET Bathinda (MRSPTU).
 ```
 > The monitor scrolls my latest commits; the shelf holds a book for each language I write.
@@ -45,6 +45,7 @@ LEETCODE_SOLLN: Add Medium C++ Solution
       </a>
       <br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
@@ -58,6 +59,13 @@ LEETCODE_SOLLN: Add Medium C++ Solution
     </td>
   </tr>
 </table>
+---
+`> FOCUS`
+<div align="center">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning%20%26%20Building-7c3aed?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20LLM%20Apps-Docker%20Docs%20Assistant-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
 ---
 `> TECH STACK`
 <div align="center">
